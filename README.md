@@ -1,7 +1,7 @@
 # Olá Devs!!
 ## Bem vindos ao meu perfil GitHub
 # Sobre mim
-## Meu Nome é Ana Clara tenho 24 anos. Atualmente estou cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas (ADS). Gosto muito muito de ler e assistir filmes ou séries no tempo livre como Harry Potter, Marvel, e dentre outras histórias de aventura ou romance.
+## Meu Nome é Ana Clara tenho 25 anos. Atualmente estou cursando o primeiro semestre de Logistica na Fatec e me formei em Analise e Desenvolvimento de Sistemas (ADS) na Unip. Gosto muito muito de ler e assistir filmes ou séries no tempo livre como Marvel, Jogos Vorazes e dentre outras histórias de aventura ou romance.
 # Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" />
 # Contatos
