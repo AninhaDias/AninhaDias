@@ -1,4 +1,4 @@
-<img width="64" height="64" alt="github (2)" src="https://github.com/user-attachments/assets/666a5b4e-09fc-417e-8308-c2ca28bdbc5d" /># Olá Devs!!
+# Olá Devs!!
 ## Bem vindos ao meu perfil GitHub
 # Sobre mim
 ## Meu Nome é Ana Clara tenho 25 anos. Atualmente estou cursando o primeiro semestre de Logistica na Fatec e me formei em Analise e Desenvolvimento de Sistemas (ADS) na Unip. Gosto muito muito de ler e assistir filmes ou séries no tempo livre como Marvel, Jogos Vorazes e dentre outras histórias de aventura ou romance.
